@@ -30,12 +30,12 @@ We use the source codes from [Pytracking](https://github.com/visionml/pytracking
 ### Citation
 If you're using this code in a publication, please cite our paper.
 
-  @article{zhou2021adaptive,
-    title={Adaptive ensemble perception tracking},
-    author={Zhou, Zikun and Fan, Nana and Yang, Kai and Wang, Hongpeng and He, Zhenyu},
-    journal={Neural Networks},
-    volume={142},
-    pages={316--328},
-    year={2021},
-    publisher={Elsevier}
+  @article{zhou2021adaptive,  
+    &emsp;title={Adaptive ensemble perception tracking},  
+    &emsp;author={Zhou, Zikun and Fan, Nana and Yang, Kai and Wang, Hongpeng and He, Zhenyu},  
+    &emsp;journal={Neural Networks},  
+    &emsp;volume={142},  
+    &emsp;pages={316--328},  
+    &emsp;year={2021},  
+    &emsp;publisher={Elsevier}  
   }
