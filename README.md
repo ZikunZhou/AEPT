@@ -16,7 +16,7 @@ This is an official implemention for "Adaptive ensemble perception tracking".
 * tensorboardX
 
 ## Models and Raw Results
-We provide the [pre-trained models and raw results](https://drive.google.com/drive/folders/1r-25gTFA4deCpykgIMoqixes1fJCSMRz?usp=sharing)
+We provide the [pre-trained models and raw results](https://drive.google.com/drive/folders/1r-25gTFA4deCpykgIMoqixes1fJCSMRz?usp=sharing).
 
 ## Testing:
 ```
